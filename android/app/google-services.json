@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343771819492",
+    "project_id": "enplugged-4d1f5",
+    "storage_bucket": "enplugged-4d1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343771819492:android:d4b1d3845c36dc63bc6bf1",
+        "android_client_info": {
+          "package_name": "com.example.enplugged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343771819492-648inl26vn770n6l01hlt4fjfkakt1nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQILcvynYKXMm19Z_9MX5nIvVfFVpp4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343771819492-648inl26vn770n6l01hlt4fjfkakt1nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
