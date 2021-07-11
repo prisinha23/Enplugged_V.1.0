@@ -1,4 +1,5 @@
 # enplugged
+a social network platform for Entrepreneur,investor and mentor.
 
 A new Flutter project.
 
